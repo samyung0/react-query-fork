@@ -1,1 +1,7 @@
 node_modules
+eslint.config.js
+test-setup.ts
+tsconfig.json
+tsup.config.ts
+vite.config.ts
+__tests__
